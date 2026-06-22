@@ -14,10 +14,10 @@ if (!categoriaKey) {
     const productosFiltrados = productos.filter(p => p.categoria === categoriaKey);
 
     if (productosFiltrados.length === 0) {
-        titulo.textContent = categoriaKey.replace('-', ' ').toUpperCase();
+        titulo.textContent = categoriaKey.replace(/-/g, ' ').toUpperCase();
         contenedor.innerHTML = `<p style='text-align:center; padding:50px;'>No hay productos disponibles en esta categoría por el momento.</p>`;
     } else {
-        titulo.textContent = categoriaKey.replace('-', ' ').toUpperCase();
+        titulo.textContent = categoriaKey.replace(/-/g, ' ').toUpperCase();
 
         productosFiltrados.forEach(p => {
             const card = document.createElement("div");

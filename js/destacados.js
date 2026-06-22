@@ -7,7 +7,7 @@ let destacados = productos.filter(p => p.destacado === true);
 
 // Si no hay ninguno marcado, mostrar algunos aleatorios
 if (destacados.length === 0) {
-    destacados = productos.sort(() => Math.random() - 0.5).slice(0, 8);
+    destacados = productos.slice().sort(() => Math.random() - 0.5).slice(0, 8);
 }
 
 destacados.forEach(p => {

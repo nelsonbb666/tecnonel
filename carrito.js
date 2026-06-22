@@ -1,3 +1,5 @@
+import { productos } from "./data/productos.js";
+
 let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
 
 function agregarAlCarrito(idProducto) {
@@ -13,7 +15,7 @@ function agregarAlCarrito(idProducto) {
             id: producto.id,
             titulo: producto.titulo,
             precio: producto.precio,
-            imagen: producto.imagenPrincipal,
+            imagen: producto.imagenes?.[0] || "",
             cantidad: 1
         });
     }
