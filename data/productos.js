@@ -8,9 +8,9 @@ const productos = [{
         categoria: "cuidado-personal",
         promocion: true,
         destacado: true,
-        imagenes: ["/img/afeitar1.png", "/img/afeitar2.png", "/img/afeitar3.png", "/img/afeitar4.png"],
+        imagenes: ["img/afeitar1.png", "img/afeitar2.png", "img/afeitar3.png", "img/afeitar4.png"],
         video: "https://www.youtube.com/embed/o9JPcJFPJDY", // Puedes cambiar por video real
-        bannerInfo: "/img/banner-envios.png",
+        bannerInfo: "img/banner-envios.png",
         whatsapp: "https://wa.me/573127945678?text=Quiero%20la%20Máquina%20de%20Afeitar%20Pro%20Nova"
     },
 
@@ -23,9 +23,9 @@ const productos = [{
         categoria: "virales",
         promocion: true,
         destacado: true,
-        imagenes: ["/img/anuncio_camisa_colombia.png", "/img/anuncio_camisa_colombia1.png", "/img/anuncio_camisa_colombia2.png", "/img/camiseta_colombia1.jpg", "/img/camiseta_colombia2.jpg", "/img/camiseta_colombia3.jpg", "/img/camiseta_colombia4.jpg", "/img/camiseta_colombia5.jpg", "/img/camiseta_colombia6.jpg", "/img/camiseta_colombia7.jpg", "/img/camiseta_colombia8.jpg"],
+        imagenes: ["img/anuncio_camisa_colombia.png", "img/anuncio_camisa_colombia1.png", "img/anuncio_camisa_colombia2.png", "img/camiseta_colombia1.jpg", "img/camiseta_colombia2.jpg", "img/camiseta_colombia3.jpg", "img/camiseta_colombia4.jpg", "img/camiseta_colombia5.jpg", "img/camiseta_colombia6.jpg", "img/camiseta_colombia7.jpg", "img/camiseta_colombia8.jpg"],
         video: "https://www.youtube.com/embed/6UPSN-1msTY?si=LoaeXp2hUYD1Nh9c", // Puedes cambiar por video real
-        bannerInfo: "/img/banner-envios.png",
+        bannerInfo: "img/banner-envios.png",
         whatsapp: "https://wa.me/573127945678?text=Quiero%20la%20Máquina%20de%20Afeitar%20Pro%20Nova"
     },
 
