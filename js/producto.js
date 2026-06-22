@@ -36,7 +36,7 @@ if (!producto) {
     <div class="slider-imagenes">
 
         ${producto.imagenes.map(img => `
-            <img src="../${img}" alt="${producto.titulo}">
+            <img src="${img}" alt="${producto.titulo}">
         `).join('')}
 
     </div>
@@ -48,7 +48,7 @@ if (!producto) {
 <div class="miniaturas">
 
     ${producto.imagenes.map((img, i) => `
-        <img src="../${img}" data-index="${i}">
+        <img src="${img}" data-index="${i}">
     `).join('')}
 
 </div>
