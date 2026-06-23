@@ -29,6 +29,21 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20la%20Máquina%20de%20Afeitar%20Pro%20Nova"
     },
 
+    {
+        id: "paralante-ducha-resistentealagua",
+        titulo: "🚿🔊 Parlante Bluetooth para Ducha Resistente al Agua",
+        descripcion:"Disfruta de tu música, podcasts o llamadas mientras te duchas con el Parlante Bluetooth Resistente al Agua para Ducha. Su diseño compacto e impermeable permite colocarlo fácilmente en el baño gracias a su práctica ventosa de sujeción. Con conexión Bluetooth inalámbrica, sonido potente y batería recargable, podrás escuchar tus canciones favoritas mientras te preparas para el día o te relajas después del trabajo. ¡Lleva la música contigo incluso bajo la ducha! ⭐ Características ✅ Tecnología Bluetooth inalámbrica. ✅ Resistente al agua y a las salpicaduras. ✅ Ventosa de alta adherencia para superficies lisas. ✅ Micrófono integrado para llamadas manos libres. ✅ Controles de reproducción y volumen. ✅ Batería recargable de larga duración. ✅ Diseño portátil y ligero. ✅ Compatible con Android y iPhone. 🎯 Beneficios 🚿 Escucha música mientras te duchas. 📞 Responde llamadas sin usar las manos. 🔋 Disfruta varias horas de reproducción. 🎵 Sonido claro y potente. 🧲 Fácil instalación gracias a su ventosa. 🏖️ También ideal para piscina, cocina o viajes. 📦 Incluye 1 Parlante Bluetooth impermeable. 1 Cable de carga USB. 1 Ventosa integrada. 1 Manual de usuario. 🔥 Puntos destacados ✔️ Resistente al agua. ✔️ Conexión rápida Bluetooth. ✔️ Llamadas manos libres. ✔️ Fácil de transportar. ✔️ Perfecto para el baño.",
+        precioOriginal: 69000,
+        precio: 46000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/parlantersagua.png", "img/parlantersagua1.png", "img/parlantersagua2.png", "img/parlantersagua3.png", "img/parlantersagua4.png", "img/parlantersagua5.png", "img/parlantersagua6.png", "img/parlantersagua7.png", "img/parlantersagua8.png", "img/parlantersagua9.png", "img/parlantersagua10.png", ],
+        video: "https://www.youtube.com/embed/7E4bc2fUEX4?feature=share", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20el%20parlante%20resistente%al%20agua%20?"
+    },
+
 ];
 
 export { productos };
