@@ -44,6 +44,21 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20el%20parlante%20resistente%al%20agua%20?"
     },
 
+    {
+        id: "parlante-lampara-g-cargador-inalambrico",
+        titulo: "🔥 Parlante G LED con Cargador Inalámbrico 4 en 1",
+        descripcion:"¡Ilumina tu espacio, carga tu celular y disfruta tu música favorita! Transforma tu habitación, oficina o escritorio con el nuevo **Parlante G LED Inteligente**, un dispositivo multifuncional que combina **parlante Bluetooth, lámpara LED ambiental, cargador inalámbrico y reloj despertador** en un solo equipo. Disfruta de un sonido potente, efectos de iluminación LED, radio FM, ruido blanco para dormir y carga inalámbrica para tu celular compatible. ✨ Características ✅ Cargador inalámbrico de hasta 15W. ✅ Parlante Bluetooth 5.3 de alta calidad. ✅ 13 efectos de iluminación LED. ✅ Reloj digital y despertador integrado. ✅ Función de ruido blanco para relajación. ✅ Radio FM incorporada. ✅ Reproducción por USB y tarjeta TF. ✅ Conexión AUX y Bluetooth. ✅ Alcance inalámbrico de hasta 10 metros. ✅ Sonido estéreo TWS al conectar dos equipos. 🎯 Beneficios 🔋 Carga tu celular sin cables. 🎵 Escucha tu música favorita en cualquier momento. 💡 Crea ambientes relajantes con sus luces LED. ⏰ Utilízalo como reloj y despertador inteligente. 😴 Disfruta sonidos relajantes para dormir o meditar. 🏠 Ideal para habitaciones, escritorios, oficinas y salas. 📦 Incluye * 1 Parlante G LED multifuncional. * 1 Cable de carga USB Tipo C. * 1 Manual de usuario. ¡Moderniza tu espacio con tecnología, iluminación y sonido en un solo dispositivo! ",
+        precioOriginal: 110000,
+        precio: 72000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/parlantelamparag.png", "img/parlantelamparag1.png", "img/parlantelamparag2.png", "img/parlantelamparag2.png", "img/parlantelamparag3.png", "img/parlantelamparag4.png", "img/parlantelamparag5.png", "img/parlantelamparag6.png", "img/parlantelamparag7.png", ],
+        video: "https://www.youtube.com/embed/x-B_ulUA45Y", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20parlante%20G%20LED%20con%20Cargador%20Inalámbrico%204%20en%201%20?"
+    },
+
 ];
 
 export { productos };
