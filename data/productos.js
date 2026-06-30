@@ -59,6 +59,22 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20parlante%20G%20LED%20con%20Cargador%20Inalámbrico%204%20en%201%20?"
     },
 
+
+    {
+        id: "parlante-bluetooth-portatil-recargable-c",
+        titulo: "Parlante Bluetooth Portatil Recargable C",
+        descripcion:"Descripción: Este parlante portátil cuenta con una estructura compacta y elegante, ideal para quienes buscan un equipo fácil de transportar sin perder calidad de sonido. Su conectividad Bluetooth permite disfrutar de música inalámbrica desde dispositivos móviles, y su batería recargable garantiza horas de uso continuas. El diseño incluye luces LED, que se iluminan de manera dinámica, creando un ambiente visual que complementa la música. Cuenta con una manija que facilita su transporte, haciéndolo ideal para actividades al aire libre, viajes o simplemente para llevarlo de una habitación a otra. Su tamaño compacto no impide que ofrezca un sonido claro y balanceado, perfecto para espacios pequeños o medianos. Características: ✔️ Conectividad Bluetooth para reproducción inalámbrica ✔️ Luces LED que acompañan la música ✔️ Batería recargable para hasta 5 horas de uso continuo ✔️ Manija para fácil transporte ✔️ Sonido claro y balanceado ✔️ Diseño compacto y elegante ",
+        precioOriginal: 84000,
+        precio: 65000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/parlantebluetoothportatilrecargablec.png", "img/parlantebluetoothportatilrecargablec1.png", "img/parlantebluetoothportatilrecargablec2.png", "img/parlantebluetoothportatilrecargablec3.png", "img/parlantebluetoothportatilrecargablec4.png", ],
+        video: "https://www.youtube.com/embed/q8mQJ7R6tXU?feature=share", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20el%20parlante%20Bluetooth%20Portátil%20Recargable%20C?"
+    },
+
 ];
 
 export { productos };
