@@ -75,6 +75,22 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20el%20parlante%20Bluetooth%20Portátil%20Recargable%20C?"
     },
 
+
+    {
+        id: "bombillo-parlante-bluetooth-multicolor",
+        titulo: "💡🔊 Bombillo LED Bluetooth Multicolor con Parlante Integrado y Control Remoto",
+        descripcion:"¡Ilumina tu espacio y disfruta de tu música favorita al mismo tiempo! Convierte cualquier habitación en un ambiente único con el **Bombillo LED Bluetooth Multicolor**. Este innovador dispositivo combina una potente iluminación LED con un parlante Bluetooth integrado, permitiéndote controlar la luz y reproducir música desde tu celular de forma inalámbrica. Elige entre **16 colores diferentes**, ajusta el brillo, cambia los efectos de iluminación y disfruta de un sonido claro mientras decoras tu habitación, sala, oficina o cualquier espacio de tu hogar. ✨ Características ✅ Parlante Bluetooth integrado. ✅ Iluminación LED multicolor con 16 colores. ✅ Control remoto de 24 funciones incluido. ✅ Conexión Bluetooth inalámbrica hasta 10 metros. ✅ Compatible con Android, iPhone, tablets y computadores. ✅ Base universal E27 de fácil instalación. ✅ Bajo consumo de energía (12W). ✅ 4 efectos de iluminación: Flash, Estroboscópico, Fade y Suave. ✅ Brillo regulable. ✅ Sonido potente con bajos mejorados. 🎯 Beneficios 🎵 Escucha tu música favorita sin necesidad de parlantes adicionales. 🌈 Personaliza la iluminación según tu estado de ánimo o la ocasión. 📱 Controla la música desde cualquier dispositivo con Bluetooth. 🎮 Cambia los colores y efectos fácilmente con el control remoto. 🏠 Ideal para habitaciones, salas, oficinas, estudios, bares, fiestas y eventos. 💡 Ahorra espacio al combinar iluminación y sonido en un solo dispositivo. ⚡ Tecnología LED de bajo consumo para mayor eficiencia energética. 🔧 Instalación rápida y sencilla, igual que un bombillo convencional. 📦 Incluye * Bombillo LED con parlante Bluetooth. * Control remoto de 24 botones. * Manual de uso. 🚀 ¿Por qué elegir este bombillo? Porque no es solo una bombilla, es una experiencia completa. Disfruta de música inalámbrica, iluminación personalizable y un diseño moderno que transformará cualquier espacio en segundos. Solo instálalo, conéctalo por Bluetooth y comienza a disfrutar de un ambiente diferente todos los días. ",
+        precioOriginal: 65000,
+        precio: 45000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/bombilloparlantebluetoothmulticolor.png", "img/bombilloparlantebluetoothmulticolor1.gif", "img/bombilloparlantebluetoothmulticolor2.png", "img/bombilloparlantebluetoothmulticolor3.png", "img/bombilloparlantebluetoothmulticolor4.png", ],
+        video: "https://www.youtube.com/embed/z-kpn00vzjU", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20el%20bombillo%20LED%20Bluetooth%20Multicolor%20con%20Parlante%20Integrado%20y%20Control%20Remoto?"
+    },
+
 ];
 
 export { productos };
