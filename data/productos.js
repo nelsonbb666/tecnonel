@@ -91,6 +91,21 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20el%20bombillo%20LED%20Bluetooth%20Multicolor%20con%20Parlante%20Integrado%20y%20Control%20Remoto?"
     },
 
+    {
+        id: "audifonos-p47-bluetooth",
+        titulo: "🎧 Audífonos Bluetooth P47 Inalámbricos",
+        descripcion:"Los Audífonos Bluetooth P47 son la combinación perfecta entre comodidad, calidad de sonido y diseño moderno. Gracias a su conexión inalámbrica Bluetooth, podrás escuchar música, ver películas, jugar o responder llamadas sin preocuparte por los cables. Su diseño ligero y acolchado brinda un ajuste cómodo para largas horas de uso, mientras que su batería recargable te acompaña durante todo el día. Además, cuentan con múltiples opciones de reproducción, permitiéndote escuchar música mediante Bluetooth, tarjeta Micro SD o cable auxiliar. ✨ Características ✅ Conexión Bluetooth inalámbrica. ✅ Micrófono integrado para llamadas manos libres. ✅ Sonido estéreo de alta calidad. ✅ Batería recargable de larga duración. ✅ Diseño cómodo y ajustable. ✅ Almohadillas acolchadas para mayor confort. ✅ Compatible con Android, iPhone, tablets, computadores y Smart TV. ✅ Reproducción mediante Bluetooth, tarjeta Micro SD y cable AUX. ✅ Controles integrados para música y llamadas. ✅ Diseño plegable y fácil de transportar. 🎯 Beneficios 🎵 Disfruta de un sonido potente y envolvente en cualquier lugar. 📞 Responde llamadas sin sacar tu celular del bolsillo. 🔋 Escucha música durante horas gracias a su batería recargable. 🎒 Su diseño plegable permite llevarlos fácilmente en tu mochila o bolso. 🎮 Ideales para estudiar, trabajar, hacer ejercicio, viajar o disfrutar de tus videojuegos favoritos. 🎧 Ajuste cómodo para largas sesiones de uso sin molestias. 📦 Incluye 1 Audífono Bluetooth P47. 1 Cable de carga USB. 1 Cable auxiliar 3.5 mm. Manual de usuario. 🚀 ¡Lleva tu música a otro nivel con los Audífonos Bluetooth P47 y disfruta de una experiencia inalámbrica llena de comodidad y excelente sonido!",
+        precioOriginal: 52000,
+        precio: 39000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/audifonosp47bluetooth.png", "img/audifonosp47bluetooth1.png", "img/audifonosp47bluetooth2.png", "img/audifonosp47bluetooth3.png", "img/audifonosp47bluetooth4.png", "img/audifonosp47bluetooth5.png" ],
+        video: "https://www.youtube.com/embed/iWLuY3XNeUc", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Bluetooth%20P47%20Inalámbricos"
+    },
+
 ];
 
 export { productos };
