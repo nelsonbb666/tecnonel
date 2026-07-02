@@ -116,7 +116,7 @@ const productos = [{
         categoria: "tecnologia",
         promocion: true,
         destacado: true,
-        imagenes: ["img/audifonosinalambricosp9.png", "img/audifonosinalambricosp91.png", "img/audifonosinalambricosp92.png", "img/audifonosinalambricosp93.png", "img/audifonosinalambricosp94.png", ],
+        imagenes: ["img/audifonosinalambricosp9.png", "img/audifonosinalambricosp91.png", "img/audifonosinalambricosp92.png", "img/audifonosinalambricosp93.png", ],
         video: "https://www.youtube.com/embed/vzh4YcfbXk0", // Puedes cambiar por video real
         bannerInfo: "img/banner-envios.png",
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Inalámbricos%20P9%20Bluetooth"
