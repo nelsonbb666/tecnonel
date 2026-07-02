@@ -122,6 +122,21 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Inalámbricos%20P9%20Bluetooth"
     },
 
+    {
+        id: "audifonos-diademas-animados-caricaturas",
+        titulo: "🦸🎧 Audífonos Bluetooth Diadema Animados ",
+        descripcion:"Disfruta de tu música, series, videojuegos y llamadas con los Audífonos Bluetooth Diadema Animados, inspirados en los superhéroes y personajes más populares. Su diseño llamativo y cómodo los convierte en el accesorio perfecto para niños, jóvenes y fanáticos de las caricaturas. Gracias a su tecnología Bluetooth 5.0, ofrecen una conexión rápida y estable, mientras que su sonido HD estéreo brinda una experiencia envolvente con excelente calidad de audio. Además, su diadema ajustable y almohadillas acolchadas permiten usarlos durante horas con total comodidad. ✨ Características ✅ Diseños inspirados en superhéroes y caricaturas. ✅ Tecnología Bluetooth 5.0 de conexión rápida. ✅ Sonido HD estéreo con excelente calidad de audio. ✅ Micrófono integrado para llamadas manos libres. ✅ Diadema ajustable para un mejor ajuste. ✅ Almohadillas suaves y cómodas. ✅ Diseño ligero y resistente. ✅ Batería recargable de larga duración. ✅ Compatible con Android, iPhone, tablets, computadores y Smart TV. ✅ Ideales para música, clases virtuales, videojuegos y entretenimiento. 🎯 Beneficios 🎵 Disfruta de un sonido claro y envolvente en cualquier momento. 🦸 Expresa tu personalidad con divertidos diseños de tus personajes favoritos. 📱 Conéctalos fácilmente a cualquier dispositivo mediante Bluetooth. 🎮 Perfectos para jugar, estudiar, ver películas o escuchar música. 😌 Su diseño ergonómico ofrece máxima comodidad incluso durante largas horas de uso. 🎁 Son un excelente regalo para niños, adolescentes y amantes de los superhéroes. 📦 Incluye 1 Audífonos Bluetooth Diadema Animados. 1 Cable de carga USB. Manual de usuario. 🚀 ¡Elige tu diseño favorito y disfruta de una experiencia de sonido increíble con el estilo de tus personajes preferidos!",
+        precioOriginal: 80000,
+        precio: 65000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/audifonosdiademasanimadoscaricaturas.png", "img/audifonosdiademasanimadoscaricaturas1.png", "img/audifonosdiademasanimadoscaricaturas2.png", "img/audifonosdiademasanimadoscaricaturas3.png", "img/audifonosdiademasanimadoscaricaturas4.png", "img/audifonosdiademasanimadoscaricaturas5.png", "img/audifonosdiademasanimadoscaricaturas6.png", "img/audifonosdiademasanimadoscaricaturas7.png",  ],
+        video: "https://www.youtube.com/embed/AH6vpU4sluo", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Diadema%20Animados%20Caricaturas%20P9%20Bluetooth"
+    },
+
 ];
 
 export { productos };
