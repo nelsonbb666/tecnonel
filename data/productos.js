@@ -106,6 +106,22 @@ const productos = [{
         whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Bluetooth%20P47%20Inalámbricos"
     },
 
+
+    {
+        id: "audifonos-inalambricos-p9",
+        titulo: "🎧 Audífonos Inalámbricos P9 Bluetooth ",
+        descripcion:"Disfruta de un sonido potente, graves profundos y una conexión inalámbrica estable con los Audífonos Inalámbricos P9. Diseñados para ofrecer comodidad durante largas horas de uso, son ideales para escuchar música, ver películas, trabajar, estudiar o entrenar. Además de su conexión Bluetooth, cuentan con entrada para tarjeta Micro SD y radio FM integrada, permitiéndote disfrutar de tu música incluso sin conexión a tu celular. Su diseño moderno, ligero y ergonómico brinda un ajuste cómodo y elegante para cualquier ocasión. ✨ Características ✅ Conexión Bluetooth inalámbrica. ✅ Sonido estéreo potente y de alta calidad. ✅ Entrada para tarjeta Micro SD. ✅ Radio FM integrada. ✅ Micrófono incorporado para llamadas manos libres. ✅ Diseño ergonómico y ligero. ✅ Almohadillas acolchadas para mayor comodidad. ✅ Batería recargable de larga duración. ✅ Controles integrados para música y llamadas. ✅ Compatible con Android, iPhone, tablets y computadores. 🎯 Beneficios 🎵 Disfruta de un sonido envolvente con excelente calidad de audio. 📱 Conéctalos fácilmente a tus dispositivos mediante Bluetooth. 💾 Escucha música directamente desde una tarjeta Micro SD. 📻 Sintoniza tus emisoras favoritas gracias a la radio FM integrada. 📞 Atiende llamadas sin necesidad de sacar el celular. 🎒 Su diseño cómodo y portátil los hace ideales para viajar, trabajar, estudiar o entrenar. 🔋 Batería recargable para disfrutar horas de entretenimiento sin interrupciones. 📦 Incluye 1 Audífonos Bluetooth P9. 1 Cable de carga USB. Manual de usuario. 🚀 ¡Lleva tu música a otro nivel con los Audífonos Inalámbricos P9 y disfruta de comodidad, libertad y un sonido increíble donde quiera que vayas!",
+        precioOriginal: 68000,
+        precio: 49000,
+        categoria: "tecnologia",
+        promocion: true,
+        destacado: true,
+        imagenes: ["img/audifonosinalambricosp9.png", "img/audifonosinalambricosp91.png", "img/audifonosinalambricosp92.png", "img/audifonosinalambricosp93.png", "img/audifonosinalambricosp94.png", ],
+        video: "https://www.youtube.com/embed/vzh4YcfbXk0", // Puedes cambiar por video real
+        bannerInfo: "img/banner-envios.png",
+        whatsapp: "https://wa.me/573127945678?text=Quiero%20comprar%20los%20Audífonos%20Inalámbricos%20P9%20Bluetooth"
+    },
+
 ];
 
 export { productos };
